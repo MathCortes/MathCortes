@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oiii!! Meu nome é Matheus Côrtes 👋
 
-<!--
-**MathCortes/MathCortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Curso: engenharia química EEL-USP
+- 🎲 Foco: Área de dados, mais especificamente Data Science
+- 🗠 Trabalho: Procuro um estágio nas áreas de BI, análise de dados, data science, inteligência de mercado ou áreas correlacionadas
+- 💼 Linkedin: https://www.linkedin.com/in/matheus-augusto-braga-de-oliveira-c%C3%B4rtes-12652120b/
+- 📧 Email: matheusbgcortes@usp.br
+- 🏀 Gostos: Basquete
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/MathCortes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathCortes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Math-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+</div>
