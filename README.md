@@ -5,7 +5,7 @@
 - 🗠 Trabalho: Procuro um estágio nas áreas de BI, análise de dados, data science, inteligência de mercado ou áreas correlacionadas
 - 💼 Linkedin: https://www.linkedin.com/in/matheus-augusto-braga-de-oliveira-c%C3%B4rtes-12652120b/
 - 📧 Email: matheusbgcortes@usp.br
-- 🏀 Gostos: Basquete
+- 🏀 Esportes: Basquete
 
 ##
 
