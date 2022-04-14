@@ -1,4 +1,5 @@
 ### Oiii!! Meu nome é Matheus Côrtes 👋
+Se procura projetos na área de data science vai achar bastante coisa por aqui! Seja bem vindo ao meu perfil! 
 
 - 🧪 Curso: engenharia química EEL-USP
 - 🎲 Foco: Área de dados, mais especificamente Data Science
