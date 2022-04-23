@@ -1,7 +1,7 @@
 ### Oiii!! Meu nome é Matheus Côrtes 👋
 Se procura projetos na área de data science vai achar bastante coisa por aqui! Seja bem vindo ao meu perfil! 
 
-- 🧪 Curso: engenharia química EEL-USP
+- 🧪 Curso: Engenharia Química EEL-USP
 - 🎲 Foco: Área de dados, mais especificamente Data Science
 - 🗠 Trabalho: Procuro um estágio nas áreas de BI, análise de dados, data science, inteligência de mercado ou áreas correlacionadas
 - 💼 Linkedin: https://www.linkedin.com/in/matheus-augusto-braga-de-oliveira-c%C3%B4rtes-12652120b/
